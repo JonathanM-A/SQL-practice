@@ -1,3 +1,5 @@
+/* The purpose of this exercise is to learn how to clean data*/
+
 -- Checking for duplicates in data
 SELECT *,
 	ROW_NUMBER() OVER(
